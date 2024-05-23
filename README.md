@@ -1,8 +1,6 @@
+![Peek 2020-07-09 15-53](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc251anp5Yzk2ZnZtYnBueGg3NG9jZG1rNGx5Y2lmNWZrMTkwamdqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fB2IRTXd07IkcStfwU/giphy.gif)
+
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Yucheng! 😸 #11110312
-<table style="border:none">
-<tr>
-  <td style="vertical-align: top">
-    <img width="300" alt="hello!" src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc251anp5Yzk2ZnZtYnBueGg3NG9jZG1rNGx5Y2lmNWZrMTkwamdqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fB2IRTXd07IkcStfwU/giphy.gif)" >
 
 Hi, I'm Yucheng! 😸.
 
