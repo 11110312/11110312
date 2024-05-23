@@ -1,5 +1,4 @@
-![Peek 2020-07-09 15-53](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc251anp5Yzk2ZnZtYnBueGg3NG9jZG1rNGx5Y2lmNWZrMTkwamdqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fB2IRTXd07IkcStfwU/giphy.gif)
-
+![](https://github.com/ms314006/ms314006/blob/master/resource/introduction.gif?raw=true)
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Yucheng! 😸 #11110312
 
 Hi, I'm Yucheng! 😸.
