@@ -1,6 +1,5 @@
-![animated](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc251anp5Yzk2ZnZtYnBueGg3NG9jZG1rNGx5Y2lmNWZrMTkwamdqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fB2IRTXd07IkcStfwU/giphy.gif)
+![img]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc251anp5Yzk2ZnZtYnBueGg3NG9jZG1rNGx5Y2lmNWZrMTkwamdqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fB2IRTXd07IkcStfwU/giphy.gif](https://github.com/11110312/11110312/blob/main/giphy.gif))
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/sudo_overflow) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/CyrisXD?logo=GitHub&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/CyrisXD?logo=github&style=for-the-badge)](https://github.com/CyrisXD) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/CyrisXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/CyrisXD)
 
 ## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Yucheng! 😸 #11110312
 
